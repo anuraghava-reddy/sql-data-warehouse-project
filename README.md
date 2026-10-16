@@ -1,4 +1,4 @@
-# 🏗️ SQL Data WarehousE
+# 🏗️ SQL Data Warehouse
 
 Welcome to my **Data Warehouse and Analytics Project**!
 
