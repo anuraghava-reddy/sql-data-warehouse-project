@@ -1,8 +1,8 @@
-# 🏗️ SQL Data Warehouse & Analytics Project
+# 🏗️ SQL Data WarehousE
 
 Welcome to my **Data Warehouse and Analytics Project**!
 
-This project builds a complete data warehousing and analytics solution in **SQL Server**. It starts with raw CSV files and ends with business-ready insights. I built it as a portfolio project to practise industry-standard data engineering and analytics.
+This project builds a complete data warehousing in **SQL Server**. It starts with raw CSV files and ends with business-ready insights. I built it as a portfolio project to practise industry-standard data engineering.
 
 ---
 
@@ -20,7 +20,7 @@ The warehouse follows the **Medallion Architecture**, with three layers:
 
 ## 📋 Project Requirements
 
-### Part 1: Building the Data Warehouse (Data Engineering)
+###  Building the Data Warehouse (Data Engineering)
 
 #### 🎯 Objective
 Build a modern data warehouse in SQL Server that brings together sales data from different systems, so the business can report on it and make informed decisions.
@@ -31,18 +31,6 @@ Build a modern data warehouse in SQL Server that brings together sales data from
 - **Integration:** Combine both sources into a single, easy-to-use data model built for analytical queries.
 - **Scope:** Use the latest dataset only. Historical tracking of data is not required.
 - **Documentation:** Document the data model clearly for both business stakeholders and analytics teams.
-
----
-
-### Part 2: BI, Analytics & Reporting (Data Analytics)
-
-#### 🎯 Objective
-Write SQL-based analytics that give detailed insights into:
-- **Customer Behaviour**
-- **Product Performance**
-- **Sales Trends**
-
-These insights give stakeholders the key business metrics they need for strategic decisions.
 
 ---
 
